@@ -19,10 +19,6 @@ or/and
 ```
 cordova platform add browser
 ```
-or/and
-```
-cordova platform add ios
-```
 
 ## Build and run application
 To run the application on an android phone plugged to your computer
